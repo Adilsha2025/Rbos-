@@ -1,0 +1,6 @@
+{
+  "name": "રોજની ડાયરી",
+  "description": "દુકાનદારો માટે રોજિંદી બેલેન્સ હિસાબ ડાયરી (Shopkeeper Daily Balance Diary)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
